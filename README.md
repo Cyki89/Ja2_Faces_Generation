@@ -17,7 +17,7 @@ I enclosed all above scripts in <b>Scripts</b> directory.
 
 ## GAN Architecture
 
-<b> GENERATOR </b>
+<b>GENERATOR</b>
 ```
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
@@ -52,7 +52,7 @@ Non-trainable params: 1,024
 _________________________________________________________________
 ```
 
-<b> DISCRIMINATOR </b>
+<b>DISCRIMINATOR</b>
 ```
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
